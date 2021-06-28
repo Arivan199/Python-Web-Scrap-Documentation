@@ -7,12 +7,12 @@ Python Script to scrap data from website with around 25 years of news.
   
 
 ## Technologies
-  Selenium Framework
-  Beautiful Soup 4
-  Python 3
+  Selenium Framework</br>
+  Beautiful Soup 4</br>
+  Python 3</br>
 
 ## Launch
-  Python 3 Installed
-  bs4 framework preinstalled
-  Chrome/Firefox webdriver preinstalled
+  Python 3 Installed</br>
+  bs4 framework preinstalled</br>
+  Chrome/Firefox webdriver preinstalled</br>
  
